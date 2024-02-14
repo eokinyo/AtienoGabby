@@ -1,8 +1,7 @@
 # AtienoGabby
-# Catholic Priest Website Project
 
 ## Description
-This project aims to create a website for a Catholic priest, providing various features including welcome page, Sunday homilies, contact form, daily reflections, catechesis, and donation option.
+This project aims to create a website for a Catholic priest, providing various features including a welcome page, Sunday homilies, a contact form, daily reflections, catechesis, and a donation option.
 
 ## Features
 - [ ] Welcome Page
@@ -20,7 +19,7 @@ This project aims to create a website for a Catholic priest, providing various f
 ## Implementation Plan
 1. **Welcome Page**
    - Design and create the welcome page layout.
-   - Write a brief description about the priest, his studies, works, services, etc.
+   - Write a brief description of the priest, his studies, works, services, etc.
    
 2. **Sunday Homilies**
    - Design a layout for displaying weekly homilies.
@@ -72,4 +71,4 @@ This project aims to create a website for a Catholic priest, providing various f
 - Test the website thoroughly before deployment to ensure functionality and usability.
 
 ## Contributors
-- [Elly Okinyo]
+- Elly Okinyo
